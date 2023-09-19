@@ -1,0 +1,2 @@
+# Set all .md files to use LF line endings on all platforms
+*.md text eol=lf
